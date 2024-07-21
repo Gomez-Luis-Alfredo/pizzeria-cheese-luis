@@ -23,7 +23,7 @@ export default function NavBar({setShowCart}) {
                 <div className="flex flex-row justify-between p-5 md:px-32 px-5 bg-PrimaryColor shadow-[rgba(0,_0,_0,_0.24)_0px_3px_8px]">
                     <div>
                         <Link to="home" smooth={true} spy={true} duration={500}>
-                            <h1 className="text-2xl font-semibold text-ExtraDarkColor cursor-pointer">StyleNestle</h1>
+                            <h1 className="text-2xl font-semibold text-ExtraDarkColor cursor-pointer">RoxyShop</h1>
                         </Link>
                     </div>
                     {/*Nav elements*/}
